@@ -1,0 +1,7 @@
+Title: CDS 101 homework instructions
+Depends:
+  R (>= 3.5)
+Imports:
+  fs (>= 1.2.6),
+  tidyverse (>= 1.2.1),
+  infer (>= 0.4.0)
